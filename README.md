@@ -1,6 +1,6 @@
 # Solidity Security Audit Reports
 
-This repository stores all the Solidity security audit reports. The purpose of this repository is to provide transparency and allow others to review the security of the Solidity smart contracts.
+This repository stores all of my Solidity security audit reports. The purpose of this repository is to provide transparency and allow others to view the audit reports of the Solidity smart contracts. Some of these reports have been made after going through Cyfrin's course, the rest have been all made from my projects. 
 
 ## Content
 
