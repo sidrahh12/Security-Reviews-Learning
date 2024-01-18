@@ -10,14 +10,10 @@ The repository contains PDF files of the security audit reports. Each file corre
 
 You can view the audit reports directly in this repository. Click on the file name to open the corresponding PDF.
 
-## Contribution
-
-We welcome contributions. If you find any vulnerabilities in the smart contracts, please submit a pull request with the details of the vulnerability and the proposed fix.
-
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any further queries, feel free to contact us at [email](mailto:example@example.com).
+For any further queries, feel free to contact us at [email](mailto:sidrah12a@gmail.com).
