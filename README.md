@@ -6,10 +6,6 @@ This repository stores all of my Solidity security audit reports. The purpose of
 
 The repository contains PDF files of the security audit reports. Each file corresponds to a different smart contract.
 
-## Usage
-
-You can view the audit reports directly in this repository. Click on the file name to open the corresponding PDF.
-
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
